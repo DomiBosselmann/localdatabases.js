@@ -1,4 +1,5 @@
 // Created by Dominique Bosselmann, licensed under CC BY-NC-SA 3.0
+// Do not use yet!
 
 Database = function (name,description,maxSize,successHandler,errorHandler) {
 	this.stores = [];
